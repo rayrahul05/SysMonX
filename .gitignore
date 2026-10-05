@@ -1,0 +1,11 @@
+build/
+bin/
+*.o
+*.ko
+*.mod
+*.mod.c
+Module.symvers
+modules.order
+*.cmd
+.vscode/
+.idea/
